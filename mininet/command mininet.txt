@@ -1,0 +1,1 @@
+sudo mn --custom "path-to-python-topo-file" --topo mytopo --controller=remote,ip=...,port=... --mac
